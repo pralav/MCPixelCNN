@@ -4,7 +4,7 @@ Simple Version of [DeepSpace: Mood-based Image Texture Generation for Virtual Re
 
 The data required should be Python cPickle file containing zip(image, phrase_emebddings, mood_embeddings)
 
-Phrase Embeddings: Use GLoVe/ Word2Vec
-Mood Embeddings: Either One hot encoding of moods/ Embeddings based on a trained Music-Mood Classifier. (We used the latter for the experiments)
+* Phrase Embeddings: Use GLoVe/ Word2Vec
+* Mood Embeddings: Either One hot encoding of moods/ Embeddings based on a trained Music-Mood Classifier. (We used the latter for the experiments)
 
 
